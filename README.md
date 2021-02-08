@@ -1,2 +1,2 @@
 # ABMKS-SM-results
-The simulation result files of ABMKS-SM scheme
+The simulation files of ABMKS-SM scheme
